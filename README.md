@@ -1,4 +1,4 @@
-# Cheese Finder Game
+# Cheese Jumper Game
 
 - Player's objective is to guide the rat to jump and collect all the items.
 - There are 4 types of food items, with lollipops offering a special jump boost.
